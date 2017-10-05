@@ -1,3 +1,3 @@
 # bug_server
 
-Redis AND MongoDBÎ´ÊÚÈ¨·ÃÎÊ²âÊÔ
+Redis AND MongoDBæœªæˆæƒè®¿é—®æµ‹è¯•
